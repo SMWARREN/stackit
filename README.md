@@ -1,3 +1,20 @@
+##Sean Warren
+
+#Added Test Cases for StackIt
+#Refactored Code
+
+>Using the practice of clean code it states that A functional unit on a given level of abstraction should only be responsible for a single aspect of a system’s requirements. An aspect of requirements is a trait or property of requirements, which can change independently of other aspects.
+- [x] Part 1: clone the lukasschwab/stackit project from github. 
+- [x] There is one file with python code in it. There are no test cases. Add a second python file of unit tests for stackit_core.py. 
+- [x] Also do one useful refactor of the code. Comment it with a comment #+++++++my refactor+++++++++++ at the top of your change and #-----------my refactor--------- at the end of it.
+
+> Include a comment on why you think this is a good refactor. Zip up your version of your project (with your name in the zip file) and email me the zip file by 9am March 5th.
+
+
+
+
+
+
 # stackit
 
 <p align="center">
